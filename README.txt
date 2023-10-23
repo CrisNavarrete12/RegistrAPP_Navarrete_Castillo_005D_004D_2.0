@@ -23,3 +23,5 @@ Levantar servidor JSON es /src/app/data
 json-server --watch asignaturas.json --host 0.0.0.0 --port 3300
 
 Instalar ToastController
+
+npm install @capacitor/toast
