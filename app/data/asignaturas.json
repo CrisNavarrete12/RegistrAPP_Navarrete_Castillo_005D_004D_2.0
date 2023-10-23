@@ -1,0 +1,29 @@
+{
+    "asignaturas": [
+      {
+        "id": 1,
+        "nombre": "Matematicas"
+      },
+      {
+        "id": 2,
+        "nombre": "Lenguaje"
+      }
+    ],
+    "usuarios": [
+      {
+        "id":1,
+        "email":"cris.navarrete@duocuc.cl",
+        "password": "duoc",
+        "role": "usuario",
+        "isactive": true
+      }
+    ],
+    "registros": [
+      {
+        "id": "",
+        "nombre": "",
+        "password": "",
+        "email": ""
+      }
+    ]
+  }
